@@ -1,0 +1,59 @@
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\Website Bán Nước Hoa.dll.config
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\Website Bán Nước Hoa.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\Website Bán Nước Hoa.pdb
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\csc.exe
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\csc.exe.config
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\csc.rsp
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\csi.exe
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\csi.exe.config
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\csi.rsp
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.AppContext.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Collections.Immutable.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Console.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Globalization.Calendars.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.IO.Compression.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.IO.FileSystem.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Net.Http.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Net.Sockets.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Reflection.Metadata.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.ValueTuple.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Xml.XPath.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\vbc.exe
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\vbc.exe.config
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\vbc.rsp
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\VBCSCompiler.exe
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\roslyn\VBCSCompiler.exe.config
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\obj\Debug\Website Bán Nước Hoa.csproj.CoreCompileInputs.cache
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\obj\Debug\Website Bán Nước Hoa.csproj.CopyComplete
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\obj\Debug\Website Bán Nước Hoa.dll
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\obj\Debug\Website Bán Nước Hoa.pdb
+E:\Learn\BTLCacMonHoc\LTWCB\BTL LTW Chốt\Website Bán Nước Hoa\obj\Debug\Website Bán Nước Hoa.csproj.AssemblyReference.cache
